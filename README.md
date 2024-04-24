@@ -1,6 +1,6 @@
 # Olá Mundo! 😅
 
-- **Opa! Meu nome é Guilherme, sou estudante do ensino médio, amante da tecnologia e entusiasta da programação!**
+- **Opa! Meu nome é Guilherme, tenho 17 anos, sou estudante do ensino médio, iniciante no mundo da programação e amante da tecnologia!**
 
 ### Linguagens que ultilizo!
 
@@ -10,6 +10,13 @@
 <img align="center" alt"aaa" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
 </div>
 
+### Linguagens que estou aprendendo!
+
+<div class="html" style= "display: inline_block;">
+<img align="center" alt"aaa" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+<img align="center" alt"aaa" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+<img align="center" alt"aaa" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
+</div>
 
 ### Sistema Operacional Favorito!
 
