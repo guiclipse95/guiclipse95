@@ -13,7 +13,7 @@
 ### Linguagens que estou aprendendo!
 
 <div class="html" style= "display: inline_block;">
-<img align="center" alt"aaa" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+<img align="center" alt"aaa" src="https://img.shields.io/badge/Python-203f75?style=for-the-badge&logo=python&logoColor=yellow">
 <img align="center" alt"aaa" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
 </div>
 
@@ -30,4 +30,4 @@
 ### Meus Status:
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guilhermedev2006&show_icons=true&theme=dracula)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guilhermedev2006&show_icons=true&theme=vue)
