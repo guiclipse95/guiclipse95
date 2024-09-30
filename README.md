@@ -20,7 +20,7 @@
 ### Sistema Operacional Favorito!
 
 <div class="sistema" style="display: inline_block;">
-<img align="center" alt"bbb" src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white">
+<img align="center" alt"bbb" src="https://img.shields.io/badge/manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white">
 <img align="center" alt"bbb" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
 </div>
 
