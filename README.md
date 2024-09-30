@@ -1,6 +1,6 @@
 # Olá Mundo! 😅
 
-- **Opa! Meu nome é Guilherme, tenho 17 anos, sou estudante do ensino médio, iniciante no mundo da programação e amante da tecnologia!**
+- **Opa! Meu nome é Guilherme, tenho 18 anos, sou estudante do ensino médio, iniciante no mundo da programação e amante da tecnologia!**
 
 ### Linguagens que ultilizo!
 
