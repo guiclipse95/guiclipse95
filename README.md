@@ -13,4 +13,4 @@
 ## : My stats! 📈
 
 ![guiclipse95's GitHub stats](https://github-readme-stats.vercel.app/api?username=guiclipse95&theme=gruvbox&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guiclipse95&layout=donut&theme=gruvbox)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guiclipse95&layout=compact&theme=gruvbox)
