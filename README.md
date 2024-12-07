@@ -8,7 +8,7 @@
 - I'm a (beginner) programmer enthusiast!
 - In the future study computer science!
 - Always learn something! :)
-- Currently learn Go!
+- Currently learn Lua!
 
 ## : My stats! 📈
 
