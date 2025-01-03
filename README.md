@@ -1,5 +1,5 @@
 <div align="center">
-<i>welcome to my radical github profile!</i>
+<i>welcome to my radical github profile! XD</i>
 </div>
 
 <div align="center">
@@ -14,7 +14,7 @@
 </div>
 
 <div align="center">
-<a href="https://guiclipse95.github.io/guiclipse-profile/"><i>visit my website!</i></a>
+<a href="https://guiclipse95.github.io/guiclipse-profile/"><i>visit my website! :P</i></a>
 </div>
 
 <div align="center">
