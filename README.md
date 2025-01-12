@@ -1,36 +1,14 @@
-<div align="center">
-<i>welcome to my radical github profile! XD</i>
-</div>
+# Welcome to my profile, my name is Guilherme! 👋
 
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/fdf00a7d-a500-4051-a301-d77d0395dc82">
-</div>
+- I'm a web developer, always focused! <br>
+- I'm currently studying Javascript.
 
+<details>
+<summary>My stats :)</summary>
+<br/>
 
-<hr>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guiclipse95&layout=compact&theme=material-palenight)
 
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/4ad7abe3-c42d-4d1c-9adb-908da1b0b17d">
-</div>
+![Zheeeng's github stats](https://github-readme-stats.vercel.app/api?username=guiclipse95&theme=material-palenight)
 
-<div align="center">
-<a href="https://guiclipse95.github.io/guiclipse-profile/"><i>visit my website! :P</i></a>
-</div>
-
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/6dbb6656-cb00-4357-9d74-f8240af1e28f">
-</div>
-
-<div align="center">
-<a href="https://github.com/guiclipse95/guiclipse95/issues"><i>sign my guestbook! :O</i></a>
-</div>
-
-<hr>
-
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/1e92083d-ba7e-4ade-951e-9f571b9cefb1">
-</div>
-
-<div align="center">
-<i>thaks for read my profile! :D</i>
-</div>
+</details>
