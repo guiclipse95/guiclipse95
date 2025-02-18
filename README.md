@@ -1,7 +1,6 @@
 # Welcome to my profile, my name is Guilherme! 👋
 
-- I'm a web developer, always focused! <br>
-- I'm currently studying Javascript.
+- Studying systems analysis and development <br>
 
 <details>
 <summary>My stats :)</summary>
