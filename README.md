@@ -1,13 +1,8 @@
-# Welcome to my profile, my name is Guilherme! 👋
+# Oi! Sejam bem-vindos(as) ao meu perfil! 👋
 
-- Studying systems analysis and development <br>
-
-<details>
-<summary>My stats :)</summary>
+- 📚 | Cursando Analise e Desenvolvimento de Sistemas <br>
+- 🧑🏻‍💻 | Atualmente estudando Python <br>
+- 💾 | Procurando sempre ajudar os outros!!
 <br/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guiclipse95&layout=compact&theme=material-palenight)
-
-![Zheeeng's github stats](https://github-readme-stats.vercel.app/api?username=guiclipse95&theme=material-palenight)
-
-</details>
+![Zheeeng's github stats](https://github-readme-stats.vercel.app/api?username=guiclipse95&theme=nord)
