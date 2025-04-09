@@ -1,7 +1,7 @@
 # 💫 About Me:
 - Me chamo Guilherme!<br>
 - Academico em Analise e Desenvolvimento de Sistemas (ADS)<br>
-- Atualmente estudando Python e JavaScript.<br>
+- Atualmente estudando Python e Java.<br>
 - Fato divertido: Eu necessito de música para poder viver e gosto de ajudar os outros :)
 
 
