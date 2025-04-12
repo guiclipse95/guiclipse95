@@ -1,8 +1,8 @@
 # 💫 About Me:
-- Me chamo Guilherme!<br>
-- Academico em Analise e Desenvolvimento de Sistemas (ADS)<br>
-- Atualmente estudando Python e Java.<br>
-- Fato divertido: Eu necessito de música para poder viver e gosto de ajudar os outros :)
+Me chamo Guilherme, um apaixonado por tecnologia que sempre procurou (e ainda procura) como cada coisa foi feita! Estou focado em desenvolvimento back-end. <br>
+Atualmente estudando a linguagem Java para poder expadir meus conhecimentos e ser um bom profissional no futuro.
+
+Gosto de aprender algo novo a cada dia, e acredito que assim estou evoluindo cada vez mais, tendo constância e disciplina.
 
 
 # 🌐 Socials:
